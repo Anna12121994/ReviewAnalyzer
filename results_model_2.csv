@@ -1,0 +1,41 @@
+﻿Number,Review,Sentiment,Confidence (%)
+1,The application works perfectly. I use it every day.,Позитивний,97.73
+2,"The delivery was late, and the package was damaged.",Негативний,89.94
+3,"The product is acceptable, but nothing special.",Негативний,49.02
+4,Excellent customer support and fast service!,Позитивний,97.18
+5,The software crashes every time I open it.,Негативний,87.9
+6,The headphones have clear sound and comfortable ear cushions.,Позитивний,85.45
+7,I am disappointed with the quality of this product.,Негативний,93.56
+8,The website is easy to navigate and looks modern.,Позитивний,92.47
+9,The food arrived cold and tasted terrible.,Негативний,94.66
+10,The staff were friendly and helped me solve the problem.,Позитивний,80.57
+11,The battery lasts much longer than I expected.,Позитивний,60.68
+12,This is the worst purchase I have made this year.,Негативний,95.24
+13,"The service was fine, but the price was a little high.",Позитивний,53.08
+14,"Setup was simple, and everything worked on the first try.",Позитивний,92.72
+15,The instructions are confusing and difficult to follow.,Негативний,88.26
+16,"I love the design, and the product feels very durable.",Позитивний,98.38
+17,The order arrived two days earlier than expected.,Нейтральний,73.31
+18,The camera quality is poor in low light.,Негативний,81.45
+19,"Nothing was wrong with the item, but it did not impress me.",Негативний,76.96
+20,Customer support ignored my messages for several days.,Негативний,86.63
+21,The new update fixed the bugs and improved performance.,Позитивний,83.42
+22,The chair is uncomfortable after sitting for an hour.,Негативний,80.7
+23,The subscription is affordable and offers great value.,Позитивний,96.07
+24,The app is slow and drains my phone battery.,Негативний,92.53
+25,"The hotel room was clean, quiet, and comfortable.",Позитивний,89.48
+26,The product stopped working after only one week.,Негативний,86.12
+27,"The packaging was neat, and the item matched the description.",Позитивний,96.74
+28,"The meal was okay, although the portions were small.",Позитивний,89.62
+29,I received the wrong item and had to return it.,Негативний,84.38
+30,"The course was informative, engaging, and well organized.",Позитивний,97.62
+31,"The printer works as expected, with no major issues.",Позитивний,70.03
+32,I would not recommend this service to anyone.,Негативний,91.25
+33,"The screen is bright, sharp, and easy to read.",Позитивний,94.64
+34,"The repair took longer than promised, but the result is good.",Позитивний,85.92
+35,The price is reasonable for the features provided.,Позитивний,68.69
+36,"The instructions were clear, and installation took ten minutes.",Позитивний,73.05
+37,"The sound quality is average, and the controls feel cheap.",Негативний,92.26
+38,I had a wonderful experience from start to finish.,Позитивний,98.75
+39,"The product looks nice, but it does not work properly.",Негативний,89.62
+40,The support team resolved my issue quickly and professionally.,Позитивний,65.61

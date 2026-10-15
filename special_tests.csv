@@ -1,0 +1,10 @@
+﻿Number,Type,Review,MiniLM Sentiment,MiniLM Similarity (%),RoBERTa Sentiment,RoBERTa Confidence (%)
+1,Короткий позитивний,Great!,Позитивний,26.45,Позитивний,93.82
+2,Короткий негативний,Terrible!,Негативний,40.3,Негативний,86.22
+3,Короткий нейтральний,It works.,Нейтральний,44.12,Позитивний,68.05
+4,Довгий позитивний,"I purchased this application last month. The interface is simple, the performance is excellent, and customer support is very helpful. I use the application every day and recommend it.",Позитивний,67.99,Позитивний,98.25
+5,Довгий негативний,"I ordered this product two weeks ago. The delivery was late, the packaging was damaged, and the product stopped working after one day. Customer service did not respond to my messages.",Позитивний,60.63,Негативний,93.66
+6,Саркастичний,Wonderful! The app crashed five times today.,Негативний,63.78,Позитивний,57.77
+7,Саркастичний,"Great, another update that breaks everything. Amazing!",Негативний,30.22,Позитивний,54.8
+8,Суперечливий,"The design is beautiful, but the battery is terrible.",Негативний,45.48,Негативний,87.8
+9,Суперечливий,"The delivery was slow, but the product works perfectly.",Негативний,47.25,Позитивний,90.89

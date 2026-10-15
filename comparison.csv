@@ -1,0 +1,41 @@
+﻿Number,Review,MiniLM Sentiment,MiniLM Similarity (%),RoBERTa Sentiment,RoBERTa Confidence (%),Different
+1,The application works perfectly. I use it every day.,Позитивний,64.15,Позитивний,97.73,Ні
+2,"The delivery was late, and the package was damaged.",Нейтральний,37.07,Негативний,89.94,Так
+3,"The product is acceptable, but nothing special.",Нейтральний,72.95,Негативний,49.02,Так
+4,Excellent customer support and fast service!,Позитивний,58.55,Позитивний,97.18,Ні
+5,The software crashes every time I open it.,Негативний,75.09,Негативний,87.9,Ні
+6,The headphones have clear sound and comfortable ear cushions.,Позитивний,10.68,Позитивний,85.45,Ні
+7,I am disappointed with the quality of this product.,Негативний,82.6,Негативний,93.56,Ні
+8,The website is easy to navigate and looks modern.,Позитивний,36.15,Позитивний,92.47,Ні
+9,The food arrived cold and tasted terrible.,Негативний,36.34,Негативний,94.66,Ні
+10,The staff were friendly and helped me solve the problem.,Нейтральний,42.66,Позитивний,80.57,Так
+11,The battery lasts much longer than I expected.,Нейтральний,28.82,Позитивний,60.68,Так
+12,This is the worst purchase I have made this year.,Негативний,39.66,Негативний,95.24,Ні
+13,"The service was fine, but the price was a little high.",Нейтральний,70.6,Позитивний,53.08,Так
+14,"Setup was simple, and everything worked on the first try.",Негативний,32.24,Позитивний,92.72,Так
+15,The instructions are confusing and difficult to follow.,Нейтральний,25.95,Негативний,88.26,Так
+16,"I love the design, and the product feels very durable.",Позитивний,61.41,Позитивний,98.38,Ні
+17,The order arrived two days earlier than expected.,Нейтральний,21.42,Нейтральний,73.31,Ні
+18,The camera quality is poor in low light.,Негативний,42.52,Негативний,81.45,Ні
+19,"Nothing was wrong with the item, but it did not impress me.",Негативний,41.54,Негативний,76.96,Ні
+20,Customer support ignored my messages for several days.,Негативний,36.92,Негативний,86.63,Ні
+21,The new update fixed the bugs and improved performance.,Негативний,52.23,Позитивний,83.42,Так
+22,The chair is uncomfortable after sitting for an hour.,Негативний,13.26,Негативний,80.7,Ні
+23,The subscription is affordable and offers great value.,Позитивний,48.67,Позитивний,96.07,Ні
+24,The app is slow and drains my phone battery.,Негативний,59.84,Негативний,92.53,Ні
+25,"The hotel room was clean, quiet, and comfortable.",Нейтральний,25.96,Позитивний,89.48,Так
+26,The product stopped working after only one week.,Негативний,68.32,Негативний,86.12,Ні
+27,"The packaging was neat, and the item matched the description.",Позитивний,38.01,Позитивний,96.74,Ні
+28,"The meal was okay, although the portions were small.",Нейтральний,45.17,Позитивний,89.62,Так
+29,I received the wrong item and had to return it.,Негативний,39.07,Негативний,84.38,Ні
+30,"The course was informative, engaging, and well organized.",Позитивний,28.17,Позитивний,97.62,Ні
+31,"The printer works as expected, with no major issues.",Нейтральний,31.94,Позитивний,70.03,Так
+32,I would not recommend this service to anyone.,Позитивний,49.54,Негативний,91.25,Так
+33,"The screen is bright, sharp, and easy to read.",Позитивний,32.28,Позитивний,94.64,Ні
+34,"The repair took longer than promised, but the result is good.",Позитивний,39.95,Позитивний,85.92,Ні
+35,The price is reasonable for the features provided.,Позитивний,46.96,Позитивний,68.69,Ні
+36,"The instructions were clear, and installation took ten minutes.",Нейтральний,24.56,Позитивний,73.05,Так
+37,"The sound quality is average, and the controls feel cheap.",Негативний,31.87,Негативний,92.26,Ні
+38,I had a wonderful experience from start to finish.,Позитивний,54.83,Позитивний,98.75,Ні
+39,"The product looks nice, but it does not work properly.",Нейтральний,71.48,Негативний,89.62,Так
+40,The support team resolved my issue quickly and professionally.,Негативний,37.31,Позитивний,65.61,Так
